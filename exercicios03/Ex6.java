@@ -18,6 +18,7 @@ public class Ex6 {
 				if(n %3 == 0 && n !=0)
 					cont++;
 					soma+=n;
+					
 		 		
 			}
 			while(n != 0);
