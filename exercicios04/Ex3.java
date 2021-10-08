@@ -31,6 +31,7 @@ public class Ex3 {
 				n2[l][c] = entrada.nextInt();
 			}
 		}
+		
 		for (l= 0; l < 4; l++){
 			for (c = 0; c < 6; c++){
 				m1[l][c] = (n1[l][c] + n2[l][c]);		
